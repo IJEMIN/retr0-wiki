@@ -1,9 +1,11 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: retr0 위키의 프론트 페이지 입니다. -->
 
-# retr0 위키
+# 레트로 위키
+![Logo](/uploads/logo.png "Logo")
+> 레트로 위키는 경희대 게임 개발 동아리, retr0 에서 운영하는 위키입니다.
 
-> retr0 위키는 경희대 게임 개발 동아리, retr0 에서 운영하는 위키입니다.
+* [retr0 소개](/retr0-소개)
 
 # 바로가기
 * 동아리의 목적
