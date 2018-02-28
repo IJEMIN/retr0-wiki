@@ -2,8 +2,9 @@
 <!-- SUBTITLE: 레트로(retr0) 동아리를 소개합니다 -->
 
 ![Logo](/uploads/logo.png "Logo")
-# retr0 (레트로)
+
 > All Pirates Here. 모든 해적들이 이곳에.
+# retr0 (레트로)
 
 **레트로는 해커 문화와 게이밍 문화를 추종하는 하드코어 게이머와 게임 개발자들의 모임입니다.**
 
