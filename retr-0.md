@@ -1,6 +1,7 @@
 <!-- TITLE: retr0 -->
 <!-- SUBTITLE: 레트로(retr0) 동아리를 소개합니다 -->
 
+![Logo](/uploads/logo.png "Logo")
 # retr0 (레트로)
 > All Pirates Here. 모든 해적들이 이곳에.
 
