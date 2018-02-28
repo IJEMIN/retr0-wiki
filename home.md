@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: 레트로 위키의 프론트 페이지 입니다. -->
 
 # 홈
 
