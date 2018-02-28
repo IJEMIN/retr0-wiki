@@ -3,7 +3,7 @@
 
 ![Logo](/uploads/logo.png "Logo")
 
-*> All Pirates Here. 모든 해적들이 이곳에.*
+*All Pirates Here. 모든 해적들이 이곳에.*
 # retr0의 정의
 
 **레트로는 해커 문화와 게이밍 문화를 추종하는 하드코어 게이머와 게임 개발자들의 모임입니다.**
