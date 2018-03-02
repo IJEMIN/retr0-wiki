@@ -1,5 +1,5 @@
 <!-- TITLE: Polyfill -->
-<!-- SUBTITLE: A quick summary of Polyfill -->
+<!-- SUBTITLE: 브라우저에서 지원하지 않는 기능을 구현한 코드이다 -->
 
 # Polyfill
 ## 정의
