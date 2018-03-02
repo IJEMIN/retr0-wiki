@@ -32,6 +32,9 @@ if (!String.prototype.includes) {
 IE 에서는 `String.prototype.includes` 가 존재하지 않기 때문에 기능이 똑같은 함수를 대신 넣어주고 사용한다.  이런 방식으로 브라우저에 없는 기능을 직접 끼워넣는 코드를 Polyfill 이라고 한다.
 
 
+## 한탄
+
+크롬으로만 개발하다가 나중에 IE 로 들어가면 에러로 떡칠이 되어 있을 가능성이 높다. 그때마다 쓰레기통을 뒤적이는 고양이마냥 polyfill 을 주우러 MDN, Stackoverflow 등을 돌아다니는 본인의 모습을 보게 될 것이다.
 
 
 
