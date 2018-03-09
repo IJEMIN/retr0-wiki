@@ -1,6 +1,10 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: retr0 위키의 프론트 페이지 입니다. -->
 
+> 공지 : retr0 슬랙을 통해 로그인할 수 있습니다. 문서를 편집하려면 로그인해주세요.
+
+* [레트로 위키 로그인](http://retr0.wiki/login)
+
 # 레트로 위키
 ![Logo](/uploads/logo.png "Logo")
 > 레트로 위키는 경희대 게임 개발 동아리, retr0 에서 운영하는 위키입니다.
