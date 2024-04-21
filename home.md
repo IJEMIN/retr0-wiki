@@ -1,8 +1,18 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: retr0 위키의 프론트 페이지 입니다. -->
+---
+title: Home
+description: retr0 위키의 프론트 페이지 입니다.
+published: true
+date: 2024-04-21T17:00:31.756Z
+tags: 
+editor: markdown
+dateCreated: 2019-11-26T04:00:34.696Z
+---
+
 # 레트로 위키
 ![Logo](/uploads/logo.png "Logo")
 > 레트로 위키는 경희대 게임 개발 동아리, retr0 에서 운영하는 위키입니다.
+
+우리는 아직 사라지지 않았습니다.
 
 * [retr0 동아리 소개는 이곳에서.](/retr-0)
 
