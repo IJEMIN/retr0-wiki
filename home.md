@@ -2,10 +2,10 @@
 title: Home
 description: retr0 위키의 프론트 페이지 입니다.
 published: true
-date: 2024-04-21T17:00:31.756Z
+date: 2024-04-21T18:10:34.149Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-26T04:00:34.696Z
+dateCreated: 2024-04-21T18:00:46.634Z
 ---
 
 # 레트로 위키
